@@ -1,2 +1,2 @@
-# student-management-system
+grade-calculator-cpp
 Grade & Percentage Calculator
