@@ -1,2 +1,2 @@
 # student-management-system
-Grade Calculator
+Grade & Percentage Calculator
